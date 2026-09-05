@@ -138,6 +138,6 @@ student-performance-prediction/
 
 Hind Michaal
 
-Computer Science Student
-Machine Learning
+Computer Science Student/
+Machine Learning/
 Interested in Cyber Security
