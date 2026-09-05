@@ -95,19 +95,31 @@ Which model provides the most useful classification results?
 student-performance-prediction/
 
 ├── data/
+
 │   └── Student_Math_Data.csv
+
 │
 ├── results/
+
 │   ├── tree_A.png
+
 │   ├── tree_B.png
+
 │   ├── tree_C.png
+
 │   ├── Model_A.png
+
 │   ├── Model_B.png
+
 │   └── Model_C.png
+
 │
 ├── student_prediction.py
+
 ├── requirements.txt
+
 └── README.md
+
 🛠️ Technologies
 Python
 Pandas
@@ -115,14 +127,7 @@ NumPy
 Scikit-learn
 TensorFlow / Keras
 Matplotlib
-🚀 Future Work
-Compare additional machine learning algorithms
-Perform hyperparameter optimisation
-Investigate feature importance in greater detail
-Use cross-validation to obtain more reliable performance estimates
-Investigate explainable AI techniques
-Test the models on additional student datasets
-Explore whether the models generalise to other educational datasets
+
 👩‍💻 Author
 
 Hind Michaal
