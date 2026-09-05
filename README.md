@@ -121,12 +121,18 @@ student-performance-prediction/
 └── README.md
 
 🛠️ Technologies
-Python
-Pandas
-NumPy
-Scikit-learn
-TensorFlow / Keras
-Matplotlib
+
+-Python
+
+-Pandas
+
+-NumPy
+
+-Scikit-learn
+
+-TensorFlow / Keras
+
+-Matplotlib
 
 👩‍💻 Author
 
