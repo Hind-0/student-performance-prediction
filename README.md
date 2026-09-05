@@ -67,6 +67,7 @@ Converting categorical variables into numerical features using one-hot encoding
 Creating a binary Pass/Fail target
 Splitting the data into 80% training and 20% testing sets
 Applying Min-Max scaling to the MLP input features
+
 📊 Evaluation
 
 The models are evaluated using:
@@ -91,6 +92,7 @@ Does including G2 further improve prediction performance?
 How do Decision Trees compare with MLP neural networks?
 How do the models differ in their predicted pass rates?
 Which model provides the most useful classification results?
+
 🗂️ Repository Structure
 student-performance-prediction/
 
